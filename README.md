@@ -4,7 +4,7 @@
 
 ### Skills
 * Dispensing Optics
-* Data Analysis (Python, R)
+* Data Analysis (Python, R, SQL)
 * Customer Service
 * Frame Styling
 
